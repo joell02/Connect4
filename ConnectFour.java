@@ -2,6 +2,7 @@
   Programmed by Joell Sebastiampillai, January 7, 2018
   This program is a unique version of connect 4 where each player plays their chips until there is four in a row; each player has a power chip that gets rid of all the chips in the column it is placed in; there is also a easy and hard mode in campaign; hard mode uses rudimentery AI to make it harder for the user to win*/
 
+//test2
 import hsa.Console;
 import java.awt.*;
 
